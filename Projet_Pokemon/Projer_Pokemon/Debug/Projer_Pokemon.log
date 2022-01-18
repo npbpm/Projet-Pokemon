@@ -1,0 +1,7 @@
+﻿  Pokedex.cpp
+f:\projet_pokemon\projer_pokemon\pokedex.cpp(21): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+f:\projet_pokemon\projer_pokemon\pokedex.cpp(21): warning C4244: 'initialisation' : conversion de 'double' en 'const int', perte possible de données
+f:\projet_pokemon\projer_pokemon\pokedex.cpp(14): warning C4172: retourne l'adresse d'une variable locale ou : pokedex temporaire
+f:\projet_pokemon\projer_pokemon\pokedex.cpp(107): warning C4715: 'genererPokemon' : les chemins de contrôle ne retournent pas tous une valeur
+  Projer_Pokemon.vcxproj -> F:\Projet_Pokemon\Projer_Pokemon\Debug\Projer_Pokemon.exe
+  Projer_Pokemon.vcxproj -> F:\Projet_Pokemon\Projer_Pokemon\Debug\Projer_Pokemon.pdb (Full PDB)
